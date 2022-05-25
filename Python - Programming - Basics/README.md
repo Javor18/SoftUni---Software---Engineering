@@ -1,1 +1,1 @@
-
+The <ins>"Programming Basics"</ins> course provides the initial programming skills required for all technological majors at the Software University. This includes writing <ins>basic code skills</ins>, working with development environment (IDE), using <ins>variables and data, operators and expressions</ins> , working with <ins>the console</ins> (reading input data and printing results), using conditional constructions <ins>(if, if-else)</ins> and cycles <ins>(for, while, do-while)</ins>.
